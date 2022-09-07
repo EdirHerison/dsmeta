@@ -1,5 +1,5 @@
-import icon from "../../assets/img/ImgHeader.svg"
-import "./styles.css"
+import icon from "../../assets/img/ImgHeader.svg";
+import "./styles.css";
 
 function Header() {
     return (

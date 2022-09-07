@@ -1,7 +1,7 @@
-import Header from "./componentes/header/indesx"
-import NotificationButton from "./componentes/NotificationButton"
-import SalesCard from "./componentes/SalesCard"
-import "./index.css"
+import Header from "./componentes/header/indesx";
+import NotificationButton from "./componentes/NotificationButton";
+import SalesCard from "./componentes/SalesCard";
+import "./index.css";
 
 
 function App() {
